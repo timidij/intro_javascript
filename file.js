@@ -1,1 +1,1 @@
-alert("Odubo Timidi James, 173cm Nigeria")
+alert("Odubo Timidi James, 173cm Nigeria.")
